@@ -2,7 +2,7 @@
    The page is fetched from the network first, so a new release is seen as soon as it is
    published, with the cached copy only as an offline fallback. Icons and prints come from
    this release's cache. Other hosts (fonts, weather, rivers) are left to the browser. */
-const BUILD = 'fc379090e54f';
+const BUILD = '98bb17209a33';
 const CACHE = 'gw-' + BUILD;
 const CORE = ["./", "index.html", "manifest.json", "favicon.ico", "icons/icon-16.png", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-32.png", "icons/icon-48.png", "icons/icon-512.png", "prints/catch-1100.webp", "prints/catch.webp", "prints/hero-north-1100.webp", "prints/hero-north.webp", "prints/hero-south-1100.webp", "prints/hero-south.webp"];
 
